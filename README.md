@@ -1,6 +1,8 @@
-## Hi there from IVECO ALTRA 👋🚐🔋
+# Hi there from IVECO ALTRA 👋🚐🔋
 
 ![IVECO logo](https://github.com/andreapittoiveco/andreapittoiveco/blob/main/iveco_image.webp?raw=true)
+
+---
 
 My **main** GitHub account is [andreabradpitto](https://github.com/andreabradpitto)!
 
